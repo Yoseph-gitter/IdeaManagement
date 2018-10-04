@@ -1,8 +1,8 @@
 # IdeasCreationRepo
 Project Requirements.
 
-This project is about creating an idea for a logged in user.
-And the a user can create many Ideas also Ideas can be liked by one or more users.
+This project is about creating an IDEA for a logged in user.
+A user can create many Ideas also Ideas can be liked by one or more users.
 Thirdly, users can only edit whatever idea they create and not other's ideas.
 User should be able to create Ideas, Edit ideas, delete ideas , sort ideas etc
 
